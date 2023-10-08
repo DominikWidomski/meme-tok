@@ -6,7 +6,9 @@ export default async function Home() {
   const data = await getTrendingData({ limit: 10, rating: "g" });
   return (
     <main className="main bg-zinc-800/30 h-screen overflow-auto snap-mandatory snap-y">
-      {data.map(({ id, images, title }) => {
+      {data.map((gif) => {
+        const { id, images, title } = gif;
+        console.log(gif);
         const gif_id = String(id);
         return (
           <section
