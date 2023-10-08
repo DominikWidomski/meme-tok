@@ -58,6 +58,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Scroll nudge (prompts you to scroll if you haven't in a while)
 - Liked view
 - API integration (GET, POST, pass data)
+  - Integration stretch goals, e.g. search, related gifs, emoji gifs, random
 
 ## Agenda
 
