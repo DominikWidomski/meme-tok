@@ -52,13 +52,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - information overlay
   - title, description, hashtags (what's on the API?)
 - Like button/like action (some animations!)
+  - "realtime" update to get the like count to update?
 - some UI to scroll? (up, down buttons, additional to drag/scroll)
 - Infinite scroll (tough, load like 1 ahead only?)
 - Scroll nudge (prompts you to scroll if you haven't in a while)
 - Liked view
 - API integration (GET, POST, pass data)
+  - Integration stretch goals, e.g. search, related gifs, emoji gifs, random
 
-## Agenda
+## Agenda
 
 - 30min intro to what we're doing and how
 - 15m - Setup
